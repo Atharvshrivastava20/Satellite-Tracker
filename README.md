@@ -1,6 +1,9 @@
 # Satellite-Tracker
 A tracker that shows live location of the ISS orbiting earth
 
+<img width="627" alt="Screenshot 2024-01-13 at 2 31 30 AM" src="https://github.com/Atharvshrivastava20/Satellite-Tracker/assets/70051305/0366941e-631d-4ce5-8521-5c16a979f6c0">
+
+
 # Globe Visualization
 
 This Python script uses matplotlib to create a 3D visualization of a globe.
